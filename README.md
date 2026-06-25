@@ -1,9 +1,30 @@
-- 👋 Hi, I’m @Rangelly
-- 👀 I’m interested in Data Analytics, SQL, Python, Power BI, Business Intelligence.
-- 🌱 I’m currently learning SQL, Python.
-- 📫 Linkedin: https://www.linkedin.com/in/yago-rangel-4300a71a2/
+<h1 align="center">Olá, eu sou Yago Rangel 👋</h1>
+<p align="center">Análise de Dados · Business Intelligence · Python · SQL</p>
 
-<!---
-Rangelly/Rangelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://www.linkedin.com/in/yago-rangel-4300a71a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+### 🔎 Sobre mim
+
+Atuo com **análise e ciência de dados, Business Intelligence e SQL**, traduzindo dados em decisões de negócio. Gosto de projetos que partem de uma pergunta de negócio real, passam por tratamento e exploração de dados, e terminam em recomendações acionáveis.
+
+- 🧰 **Stack:** SQL Server, Python (pandas, scikit-learn, statsmodels), Power BI
+- 🌱 **Aprendendo atualmente:** Power BI/DAX e Engenharia de Dados
+- 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/yago-rangel-4300a71a2/)
+
+---
+
+### 📂 Projetos em destaque
+
+| Projeto | Área | Resultado |
+|---|---|---|
+| [**Case-Churn**](https://github.com/Rangelly/Case-Churn) — Previsão de Churn em app de delivery | Ciência de Dados | Modelo de Regressão Logística com **80% de acurácia**; identificou programa de fidelidade e diversidade de categorias como principais fatores de retenção |
+
+> 🔜 Novos projetos de BI (Power BI/DAX) e Engenharia de Dados em construção — fique de olho!
+
+---
+
+<p align="center"><sub>Perfil organizado como portfólio — cada projeto acima tem README próprio com pergunta de negócio, metodologia e resultados.</sub></p>
